@@ -35,4 +35,5 @@
 
 
 **Steps 8.**  Wait till the code is pushed before doing any other operation in terminal.
+
 After all this, you will get a message similar to Branch 'master' set up to track remote branch master from origin.
