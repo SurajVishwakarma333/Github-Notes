@@ -4,7 +4,7 @@
 
 **Steps 1.** Go to terminal and change working directory to your project root using cd command and enter below commands.
 
-**Steps 2.** 
+**Steps 2.** write git init
 
          git init
 
