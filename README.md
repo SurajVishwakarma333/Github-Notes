@@ -19,7 +19,7 @@
         git add . 
 
 
-**Steps 5.** 
+**Steps 5.** here we are commiting
         
         git commit -m "Some Commit Message"
 
