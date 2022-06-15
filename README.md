@@ -38,7 +38,7 @@
 
 After all this, you will get a message similar to Branch 'master' set up to track remote branch master from origin.
 
-
+# SOME TIPS AND TRICKS WHILE WRITING IN GIT.
 
 ![image](https://user-images.githubusercontent.com/101108540/173771871-c9e6f233-3a98-4d8c-875f-b9d9dd84efdb.jpeg)
 
