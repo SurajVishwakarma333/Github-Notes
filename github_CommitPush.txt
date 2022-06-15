@@ -1,0 +1,58 @@
+
+   Github tips while commiting or pulling requests :
+
+
+	Normal Text
+
+	# HeadingHighlight = for highlighted heading.
+
+	###  = for heading text.
+
+	**Bold**  = for bold text(ctrl+b).
+
+	_italic_  = for italic text.
+
+	> quote = for writing qoute.
+
+	`add code` = for adding code.
+
+	[adding link](url)  = for adding link.
+
+	- adding bulleted list1  = for adding bulleted list.
+	- adding bulleted list2
+	- adding bulleted list3
+
+	1. adding a numbered list1  = for adding numbered list.
+	2. adding a numbered list2
+	3. adding a numbered list3
+
+	- [ ] add a task list1   = for adding a task list
+	- [ ] add a task list2
+	- [ ] add a task list3
+
+	@[SurajVishwakarma333](https://github.com/SurajVishwakarma333)  = for directly mentioning user
+
+
+
+ To push an project to git, follow these steps:
+
+   1. Go to terminal and change working directory to your project root using cd command and enter below commands.
+   2. git init
+   3. git status  //This would output you list of files in red color.
+   4. git add .   //Adds all the files to local version control.
+   5. git commit -m "Some Commit Message"
+   6. git remote add origin repository_url.git Example: git remote add origin https://github.com/SurajVishwakarma333/app_name.git
+   7. git push --set-upstream origin master   //A new branch is created with name master and all the code will be pushed to this branch.
+   8. Wait till the code is pushed before doing any other operation in terminal.
+      After all this, you will get a message similar to Branch 'master' set up to track remote branch master from origin.
+
+
+
+
+
+
+
+
+
+
+
