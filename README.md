@@ -4,7 +4,7 @@
 
 **Steps 1.** Go to terminal and change working directory to your project root using cd command and enter below commands.
 
-**Steps 2.** write git init
+**Steps 2.** write git init which show git to perform task in this folder .It will generate .git file inside your working folder. 
 
          git init
 
