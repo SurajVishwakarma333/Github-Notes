@@ -3,6 +3,7 @@
 -  To push an project or anything to git, follow these steps :
 
 **Steps 1.** Go to terminal and change working directory to your project root using cd command and enter below commands.
+or we can directly right click on inside the folder which we have to commit/push and click on git Bash here.
 
 **Steps 2.** write git init which show git to perform task in this folder .It will generate .git file inside your working folder. 
 
