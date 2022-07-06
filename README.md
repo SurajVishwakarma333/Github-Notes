@@ -9,7 +9,7 @@
          git init
 
 
-**Steps 3.** git status  //This would output you list of files in red color.
+**Steps 3.** git status for knowing your folder status means its committed or not if not then it will show files in red color.
 
         git status
 
